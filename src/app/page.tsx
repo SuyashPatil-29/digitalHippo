@@ -31,7 +31,7 @@ export default function Home() {
         <div className="py-20 mx-auto text-center flex flex-col items-center max-w-3xl">
           <h1 className=" text-4xl font-bold -tracking-tight text-gray-900 sm:text-6xl">
             Your market place for high quality{" "}
-            <span className=" text-yellow-600">Digital Assets</span>.
+            <span className=" text-yellow-600">Digital Assets</span>
           </h1>
           <p className="mt-6 text-lg max-w-prose text-muted-foreground">
             Welocme to Gaslight. Every product on our platform is verified by
